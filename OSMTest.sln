@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OSMTest", "OSMTest.csproj", "{6C66477B-C500-4957-955C-A12A3AB471DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logic", "..\Logic\Logic.csproj", "{D1346E96-BD36-4087-9765-25A9C5FD2CE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicTests", "..\LogicTests\LogicTests.csproj", "{8EAA1298-5979-40CD-B428-34E282074B2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C66477B-C500-4957-955C-A12A3AB471DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C66477B-C500-4957-955C-A12A3AB471DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C66477B-C500-4957-955C-A12A3AB471DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C66477B-C500-4957-955C-A12A3AB471DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1346E96-BD36-4087-9765-25A9C5FD2CE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1346E96-BD36-4087-9765-25A9C5FD2CE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1346E96-BD36-4087-9765-25A9C5FD2CE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1346E96-BD36-4087-9765-25A9C5FD2CE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EAA1298-5979-40CD-B428-34E282074B2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EAA1298-5979-40CD-B428-34E282074B2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EAA1298-5979-40CD-B428-34E282074B2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EAA1298-5979-40CD-B428-34E282074B2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0681D552-0202-4D1C-BF0A-521DA397E82C}
+	EndGlobalSection
+EndGlobal

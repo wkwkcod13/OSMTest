@@ -1,0 +1,98 @@
+[
+  {
+    "int_Name": "Cocos (Keeling) Islands",
+    "name": "Cocos (Keeling) Islands / Pulu Kokos (Keeling)",
+    "admin_Level": "4",
+    "boundary": "administrative"
+  },
+  {
+    "int_Name": "",
+    "name": "Western",
+    "admin_Level": "4",
+    "boundary": "administrative"
+  },
+  {
+    "int_Name": "Christmas Island",
+    "name": "Christmas Island",
+    "admin_Level": "4",
+    "boundary": "administrative"
+  },
+  {
+    "int_Name": "",
+    "name": "Heard Island and McDonald Islands",
+    "admin_Level": "4",
+    "boundary": "administrative"
+  },
+  {
+    "int_Name": "",
+    "name": "New South Wales",
+    "admin_Level": "4",
+    "boundary": "administrative"
+  },
+  {
+    "int_Name": "",
+    "name": "Northern Territory",
+    "admin_Level": "4",
+    "boundary": "administrative"
+  },
+  {
+    "int_Name": "",
+    "name": "Queensland",
+    "admin_Level": "4",
+    "boundary": "administrative"
+  },
+  {
+    "int_Name": "",
+    "name": "South Australia",
+    "admin_Level": "4",
+    "boundary": "administrative"
+  },
+  {
+    "int_Name": "",
+    "name": "Western Australia",
+    "admin_Level": "4",
+    "boundary": "administrative"
+  },
+  {
+    "int_Name": "",
+    "name": "Victoria",
+    "admin_Level": "4",
+    "boundary": "administrative"
+  },
+  {
+    "int_Name": "",
+    "name": "Australian Capital Territory",
+    "admin_Level": "4",
+    "boundary": "administrative"
+  },
+  {
+    "int_Name": "",
+    "name": "Jervis Bay Territory",
+    "admin_Level": "4",
+    "boundary": "administrative"
+  },
+  {
+    "int_Name": "",
+    "name": "Tasmania",
+    "admin_Level": "4",
+    "boundary": "administrative"
+  },
+  {
+    "int_Name": "",
+    "name": "Ashmore and Cartier Islands",
+    "admin_Level": "4",
+    "boundary": "administrative"
+  },
+  {
+    "int_Name": "",
+    "name": "Norfolk Island",
+    "admin_Level": "4",
+    "boundary": "administrative"
+  },
+  {
+    "int_Name": "",
+    "name": "Coral Sea Islands",
+    "admin_Level": "4",
+    "boundary": "administrative"
+  }
+]

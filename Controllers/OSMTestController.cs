@@ -44,19 +44,33 @@ namespace OSMTest.Controllers
                                 element.Tags.Contains("admin_level", "4") &&
                                 element.Tags.ContainsKey("name"))
                             {
-                                //var relateion = element as CompleteRelation;
-                                //dic.Add(element.Tags["int_name"], element.Tags.Select(item => new TagKeyValue { Key = item.Key, Value = item.Value }).ToList());
                                 string Name = element.Tags.ContainsKey("name") ? element.Tags["name"] : "";
                                 string Int_Name = element.Tags.ContainsKey("int_name") ? element.Tags["int_name"] : "";
                                 string Boundary = element.Tags.ContainsKey("boundary") ? element.Tags["boundary"] : "";
                                 string Admin_Level = element.Tags.ContainsKey("admin_level") ? element.Tags["admin_level"] : "";
+
+                                if (element.Tags["name"] == "Western")
+                                {
+                                    states.Add(new State
+                                    {
+                                        Name = "Western Australia",
+                                        Int_Name = "Western Australia",
+                                        Boundary = "administrative",
+                                        Admin_Level = "4",
+                                        Iso_3166_1 = "",
+                                        Iso_3166_2 = "AU-WA"
+                                    });
+                                    continue;
+                                }
 
                                 states.Add(new State
                                 {
                                     Name = Name,
                                     Int_Name = Int_Name,
                                     Boundary = Boundary,
-                                    Admin_Level = Admin_Level
+                                    Admin_Level = Admin_Level,
+                                    Iso_3166_1 = element.Tags.ContainsKey("ISO3166-1") ? element.Tags["ISO3166-1"] : "",
+                                    Iso_3166_2 = element.Tags.ContainsKey("ISO3166-2") ? element.Tags["ISO3166-2"] : ""
                                 });
                                 if (states.Count > 20) break;
                             }
@@ -167,7 +181,18 @@ namespace OSMTest.Controllers
         {
             public string Int_Name { get; set; }
             public string Name { get; set; }
-            public string Iso { get; set; }
+            public string Iso_3166_1 { get; set; }
+            public string Iso_3166_2 { get; set; }
+            public string ShortName
+            {
+                get
+                {
+                    string sname = "";
+                    if (!string.IsNullOrWhiteSpace(Iso_3166_1)) sname = Iso_3166_1;
+                    if (!string.IsNullOrWhiteSpace(Iso_3166_2)) sname = Iso_3166_2;
+                    return sname.Replace("AU-", "");
+                }
+            }
             public string Admin_Level { get; set; }
             public string Boundary { get; set; }
         }

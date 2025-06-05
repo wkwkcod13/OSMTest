@@ -4,16 +4,16 @@
     "name": "Cocos (Keeling) Islands / Pulu Kokos (Keeling)",
     "iso_3166_1": "CC",
     "iso_3166_2": "",
-    "shortName": null,
+    "shortName": "CC",
     "admin_Level": "4",
     "boundary": "administrative"
   },
   {
-    "int_Name": "Western Australia\r\n",
+    "int_Name": "Western Australia",
     "name": "Western Australia",
-    "iso_3166_1": null,
+    "iso_3166_1": "",
     "iso_3166_2": "AU-WA",
-    "shortName": null,
+    "shortName": "WA",
     "admin_Level": "4",
     "boundary": "administrative"
   },
@@ -22,7 +22,7 @@
     "name": "Christmas Island",
     "iso_3166_1": "CX",
     "iso_3166_2": "",
-    "shortName": null,
+    "shortName": "CX",
     "admin_Level": "4",
     "boundary": "administrative"
   },
@@ -31,7 +31,7 @@
     "name": "Heard Island and McDonald Islands",
     "iso_3166_1": "HM",
     "iso_3166_2": "",
-    "shortName": null,
+    "shortName": "HM",
     "admin_Level": "4",
     "boundary": "administrative"
   },
@@ -40,7 +40,7 @@
     "name": "New South Wales",
     "iso_3166_1": "",
     "iso_3166_2": "AU-NSW",
-    "shortName": null,
+    "shortName": "NSW",
     "admin_Level": "4",
     "boundary": "administrative"
   },
@@ -49,7 +49,7 @@
     "name": "Northern Territory",
     "iso_3166_1": "",
     "iso_3166_2": "AU-NT",
-    "shortName": null,
+    "shortName": "NT",
     "admin_Level": "4",
     "boundary": "administrative"
   },
@@ -58,7 +58,7 @@
     "name": "Queensland",
     "iso_3166_1": "",
     "iso_3166_2": "AU-QLD",
-    "shortName": null,
+    "shortName": "QLD",
     "admin_Level": "4",
     "boundary": "administrative"
   },
@@ -67,7 +67,7 @@
     "name": "South Australia",
     "iso_3166_1": "",
     "iso_3166_2": "AU-SA",
-    "shortName": null,
+    "shortName": "SA",
     "admin_Level": "4",
     "boundary": "administrative"
   },
@@ -76,7 +76,7 @@
     "name": "Western Australia",
     "iso_3166_1": "",
     "iso_3166_2": "AU-WA",
-    "shortName": null,
+    "shortName": "WA",
     "admin_Level": "4",
     "boundary": "administrative"
   },
@@ -85,7 +85,7 @@
     "name": "Victoria",
     "iso_3166_1": "",
     "iso_3166_2": "AU-VIC",
-    "shortName": null,
+    "shortName": "VIC",
     "admin_Level": "4",
     "boundary": "administrative"
   },
@@ -94,7 +94,7 @@
     "name": "Australian Capital Territory",
     "iso_3166_1": "",
     "iso_3166_2": "AU-ACT",
-    "shortName": null,
+    "shortName": "ACT",
     "admin_Level": "4",
     "boundary": "administrative"
   },
@@ -103,7 +103,7 @@
     "name": "Jervis Bay Territory",
     "iso_3166_1": "",
     "iso_3166_2": "",
-    "shortName": null,
+    "shortName": "",
     "admin_Level": "4",
     "boundary": "administrative"
   },
@@ -112,7 +112,7 @@
     "name": "Tasmania",
     "iso_3166_1": "",
     "iso_3166_2": "AU-TAS",
-    "shortName": null,
+    "shortName": "TAS",
     "admin_Level": "4",
     "boundary": "administrative"
   },
@@ -121,7 +121,7 @@
     "name": "Ashmore and Cartier Islands",
     "iso_3166_1": "",
     "iso_3166_2": "",
-    "shortName": null,
+    "shortName": "",
     "admin_Level": "4",
     "boundary": "administrative"
   },
@@ -130,7 +130,7 @@
     "name": "Norfolk Island",
     "iso_3166_1": "NF",
     "iso_3166_2": "",
-    "shortName": null,
+    "shortName": "NF",
     "admin_Level": "4",
     "boundary": "administrative"
   },
@@ -139,7 +139,7 @@
     "name": "Coral Sea Islands",
     "iso_3166_1": "",
     "iso_3166_2": "",
-    "shortName": null,
+    "shortName": "",
     "admin_Level": "4",
     "boundary": "administrative"
   }

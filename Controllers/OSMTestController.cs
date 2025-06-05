@@ -68,13 +68,25 @@ namespace OSMTest.Controllers
             return Ok(states);
         }
 
+        //public IActionResult SearchOSM(CountryTypes country, string suburb, string postcode, string state)
+        //{
+        //    if (MapDic.TryGetValue(country, out string path))
+        //    {
+        //        string combine = Path.Combine(dir, MapPath, path);
+        //        using (var fileStream = new FileInfo(combine).OpenRead())
+        //        {
+        //            var source = new PBFOsmStreamSource(fileStream);
+        //            var completeSource = source.ToComplete();
+        //        }
+        //    }
+        //}
+
         [HttpGet("GetOSMSubhurb")]
         public IActionResult GetOSMSubhurb(CountryTypes country, string state)
         {
             string dir = AppDomain.CurrentDomain.BaseDirectory;
             List<string> names = new List<string>();
-            Dictionary<string, List<TagKeyValue>> dic = new Dictionary<string, List<TagKeyValue>>();
-            List<Subhurb> subhurbs = new List<Subhurb>();
+            List<object> subhurbs = new List<object>();
             if (MapDic.TryGetValue(country, out string path))
             {
                 string combine = Path.Combine(dir, MapPath, path);
@@ -87,10 +99,17 @@ namespace OSMTest.Controllers
                     {
                         if (element.Type == OsmSharp.OsmGeoType.Relation &&
                             element.Tags.Contains("boundary", "administrative") &&
-                            element.Tags.Contains("admin_level", "9") &&
-                            element.Tags.Contains("place", "suburb"))
+                            (
+                                (
+                                    //element.Tags.Contains("admin_level", "6") ||
+                                    element.Tags.Contains("admin_level", "9") 
+                                    //|| element.Tags.Contains("admin_level", "10")
+                                ) && element.Tags.ContainsKey("place")
+                             )
+                            )
                         {
                             string Name = element.Tags.ContainsKey("name") ? element.Tags["name"] : "";
+                            string Admin_Level = element.Tags.ContainsKey("admin_level") ? element.Tags["admin_level"] : "";
                             string Place = element.Tags.ContainsKey("place") ? element.Tags["place"] : "";
                             string Postal_Code = element.Tags.ContainsKey("postal_code") ? element.Tags["postal_code"] : "";
                             string Log_pid = element.Tags.ContainsKey("ref:psma:loc_pid") ? element.Tags["ref:psma:loc_pid"] : "";
@@ -98,10 +117,23 @@ namespace OSMTest.Controllers
                             subhurbs.Add(new Subhurb
                             {
                                 Name = Name,
+                                Admin_Level = Admin_Level,
                                 Place = Place,
                                 Postal_Code = Postal_Code,
                                 Log_pid = Log_pid
                                 //Tags = element.Tags.Select(item => new TagKeyValue { Key = item.Key, Value = item.Value}).ToList()
+                            });
+                            //if (subhurbs.Count > 10) break;
+                        }
+                        else if (element.Type == OsmSharp.OsmGeoType.Node && element.Tags.ContainsKey("name") &&
+                            (element.Tags.Contains("place", "city") || element.Tags.Contains("place", "town"))
+                            )
+                        {
+                            subhurbs.Add(new CityOrTown
+                            {
+                                Name = element.Tags["name"],
+                                Place = element.Tags["place"]
+                                //Tags = element.Tags.Select(item => new TagKeyValue { Key = item.Key, Value = item.Value }).ToList()
                             });
                             //if (subhurbs.Count > 10) break;
                         }
@@ -135,16 +167,28 @@ namespace OSMTest.Controllers
         {
             public string Int_Name { get; set; }
             public string Name { get; set; }
+            public string Iso { get; set; }
             public string Admin_Level { get; set; }
             public string Boundary { get; set; }
         }
-        public class Subhurb
+        public interface IPlace
+        {
+            string Name { get; set; }
+            string Place { get; set; }
+            //public List<TagKeyValue> Tags { get; set; }
+        }
+        public class Subhurb : IPlace
         {
             public string Name { get; set; }
+            public string Admin_Level { set; get; }
             public string Place { get; set; }
             public string Postal_Code { get; set; }
             public string Log_pid { get; set; }
-            //public List<TagKeyValue> Tags { get; set; }
+        }
+        public class CityOrTown : IPlace
+        {
+            public string Name { get; set; }
+            public string Place { set; get; }
         }
         public class TagKeyValue
         {

@@ -1,8 +1,10 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.DataProtection.Repositories;
+using Microsoft.AspNetCore.Mvc;
 using NetTopologySuite.Operation;
 using OsmSharp.Complete;
 using OsmSharp.Streams;
 using System.Linq;
+using System.Text.RegularExpressions;
 using System.Xml.Linq;
 using static OSMTest.Controllers.OSMTestController;
 
@@ -102,8 +104,8 @@ namespace OSMTest.Controllers
                             (
                                 (
                                     //element.Tags.Contains("admin_level", "6") ||
-                                    element.Tags.Contains("admin_level", "9") 
-                                    //|| element.Tags.Contains("admin_level", "10")
+                                    element.Tags.Contains("admin_level", "9")
+                                //|| element.Tags.Contains("admin_level", "10")
                                 ) && element.Tags.ContainsKey("place")
                              )
                             )
@@ -125,18 +127,16 @@ namespace OSMTest.Controllers
                             });
                             //if (subhurbs.Count > 10) break;
                         }
-                        else if (element.Type == OsmSharp.OsmGeoType.Node && element.Tags.ContainsKey("name") &&
-                            (element.Tags.Contains("place", "city") || element.Tags.Contains("place", "town"))
-                            )
-                        {
-                            subhurbs.Add(new CityOrTown
-                            {
-                                Name = element.Tags["name"],
-                                Place = element.Tags["place"]
-                                //Tags = element.Tags.Select(item => new TagKeyValue { Key = item.Key, Value = item.Value }).ToList()
-                            });
-                            //if (subhurbs.Count > 10) break;
-                        }
+                        //else if (element.Type == OsmSharp.OsmGeoType.Node && element.Tags.ContainsKey("name") &&
+                        //    (element.Tags.Contains("place", "city") || element.Tags.Contains("place", "town"))
+                        //    )
+                        //{
+                        //    subhurbs.Add(new CityOrTown
+                        //    {
+                        //        Name = element.Tags["name"],
+                        //        Place = element.Tags["place"]
+                        //    });
+                        //}
 
                         //if ((element.Type == OsmSharp.OsmGeoType.Relation || element.Type == OsmSharp.OsmGeoType.Way) &&
                         //    //element.Tags.Contains("boundary", "administrative") &&
@@ -182,6 +182,21 @@ namespace OSMTest.Controllers
             public string Name { get; set; }
             public string Admin_Level { set; get; }
             public string Place { get; set; }
+            public string State
+            {
+                get
+                {
+                    var match = Regex.Match(Log_pid, @"^([A-Z]{2,3})\d");
+                    if (match.Success)
+                    {
+                        return match.Groups[1].Value;
+                    }
+                    else
+                    {
+                        return "";
+                    }
+                }
+            }
             public string Postal_Code { get; set; }
             public string Log_pid { get; set; }
         }

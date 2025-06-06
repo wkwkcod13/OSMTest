@@ -118,13 +118,7 @@ namespace OSMTest.Controllers
                     {
                         if (element.Type == OsmSharp.OsmGeoType.Relation &&
                             element.Tags.Contains("boundary", "administrative") &&
-                            (
-                                (
-                                    //element.Tags.Contains("admin_level", "6") ||
-                                    element.Tags.Contains("admin_level", "9")
-                                //|| element.Tags.Contains("admin_level", "10")
-                                ) && element.Tags.ContainsKey("place")
-                             )
+                            element.Tags.Contains("admin_level", "9") // && element.Tags.ContainsKey("place")
                             )
                         {
                             string Name = element.Tags.ContainsKey("name") ? element.Tags["name"] : "";
@@ -180,6 +174,53 @@ namespace OSMTest.Controllers
 
             return Ok(subhurbs);
         }
+
+        [HttpGet("GetOSMSubhurbWithoutPlaceTag")]
+        public IActionResult GetOSMSubhurbWithoutPlaceTag(CountryTypes country, string state)
+        {
+            string dir = AppDomain.CurrentDomain.BaseDirectory;
+            List<PostCodes> codes = GetAUPostCodes();
+            List<object> subhurbs = new List<object>();
+            if (MapDic.TryGetValue(country, out string path))
+            {
+                string combine = Path.Combine(dir, MapPath, path);
+                using (var fileStream = new FileInfo(combine).OpenRead())
+                {
+                    var source = new PBFOsmStreamSource(fileStream);
+                    var completeSource = source.ToComplete();
+
+                    foreach (var element in source)
+                    {
+                        if (element.Type == OsmSharp.OsmGeoType.Relation &&
+                            element.Tags.Contains("boundary", "administrative") &&
+                            element.Tags.Contains("admin_level", "9")
+                            && !element.Tags.ContainsKey("place")
+                            )
+                        {
+                            string Name = element.Tags.ContainsKey("name") ? element.Tags["name"] : "";
+                            string Admin_Level = element.Tags.ContainsKey("admin_level") ? element.Tags["admin_level"] : "";
+                            string Place = element.Tags.ContainsKey("place") ? element.Tags["place"] : "";
+                            string Postal_Code = element.Tags.ContainsKey("postal_code") ? element.Tags["postal_code"] : "";
+                            string Log_pid = element.Tags.ContainsKey("ref:psma:loc_pid") ? element.Tags["ref:psma:loc_pid"] : "";
+
+                            subhurbs.Add(new Subhurb
+                            {
+                                Name = Name,
+                                Admin_Level = Admin_Level,
+                                Place = Place,
+                                Postal_Code = Postal_Code,
+                                Log_pid = Log_pid,
+                                State = CheckState(codes, Postal_Code, Log_pid)
+                                //Tags = element.Tags.Select(item => new TagKeyValue { Key = item.Key, Value = item.Value}).ToList()
+                            });
+                        }
+                    }
+                }
+            }
+
+            return Ok(subhurbs);
+        }
+
         public string CheckState(List<PostCodes> postCodes, string code, string log_pid)
         {
             var match = Regex.Match(log_pid, @"^([A-Z]{2,3})\d");

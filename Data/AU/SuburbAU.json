@@ -43451,7 +43451,7 @@
     "name": "Grassy",
     "admin_Level": "9",
     "place": "village",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7256",
     "log_pid": "loc8d629060e62e"
   },
@@ -43459,7 +43459,7 @@
     "name": "Naracoopa",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7256",
     "log_pid": "loc622fac521d6c"
   },
@@ -43467,7 +43467,7 @@
     "name": "Egg Lagoon",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7256",
     "log_pid": "locf0c6e93ed153"
   },
@@ -43475,7 +43475,7 @@
     "name": "Sea Elephant",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7256",
     "log_pid": "locd0d8eae0461f"
   },
@@ -43483,7 +43483,7 @@
     "name": "Loorana",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7256",
     "log_pid": "loce4f4019c633f"
   },
@@ -43491,7 +43491,7 @@
     "name": "Pegarah",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7256",
     "log_pid": "loc5911529d59b2"
   },
@@ -43499,7 +43499,7 @@
     "name": "Pearshape",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7256",
     "log_pid": "locb96aa89c4077"
   },
@@ -43507,7 +43507,7 @@
     "name": "Nugara",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7256",
     "log_pid": "loc82900638f973"
   },
@@ -43515,7 +43515,7 @@
     "name": "Bungaree",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7256",
     "log_pid": "loc05a0f84ae759"
   },
@@ -43523,7 +43523,7 @@
     "name": "Lymwood",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7256",
     "log_pid": "loc770864d8d285"
   },
@@ -43531,7 +43531,7 @@
     "name": "Currie",
     "admin_Level": "9",
     "place": "town",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7256",
     "log_pid": "loc5e335a6c8725"
   },
@@ -43539,7 +43539,7 @@
     "name": "Wickham",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7256",
     "log_pid": "loc497fc60aa31d"
   },
@@ -43547,7 +43547,7 @@
     "name": "Reekara",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7256",
     "log_pid": "loc43f660761eeb"
   },
@@ -43555,7 +43555,7 @@
     "name": "Yarra Creek",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7256",
     "log_pid": "locdc0d6add4e2e"
   },
@@ -43563,7 +43563,7 @@
     "name": "Yambacoona",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7256",
     "log_pid": "loc1df7d42c2e5f"
   },
@@ -43571,7 +43571,7 @@
     "name": "Surprise Bay",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7256",
     "log_pid": "loc6298a277baee"
   },
@@ -43579,7 +43579,7 @@
     "name": "Whitemark",
     "admin_Level": "9",
     "place": "town",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7255",
     "log_pid": "locf477ba2a6e46"
   },
@@ -43587,7 +43587,7 @@
     "name": "Loccota",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7255",
     "log_pid": "loc51c95c70ca67"
   },
@@ -43595,7 +43595,7 @@
     "name": "Leeka",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7255",
     "log_pid": "locd74eb6dd387b"
   },
@@ -43603,7 +43603,7 @@
     "name": "Wingaroo",
     "admin_Level": "9",
     "place": "locality",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7255",
     "log_pid": "loc75f1c2dea926"
   },
@@ -43611,7 +43611,7 @@
     "name": "Killiecrankie",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7255",
     "log_pid": "loc25fc58e25990"
   },
@@ -43619,7 +43619,7 @@
     "name": "Emita",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7255",
     "log_pid": "locf203e5e432bf"
   },
@@ -43627,7 +43627,7 @@
     "name": "Cape Barren Island",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7257",
     "log_pid": "locc55ad3842e3e"
   },
@@ -43635,7 +43635,7 @@
     "name": "Strzelecki",
     "admin_Level": "9",
     "place": "locality",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7255",
     "log_pid": "loc69fd6edd7851"
   },
@@ -43643,7 +43643,7 @@
     "name": "Blue Rocks",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7255",
     "log_pid": "loc8ac7a4a79c57"
   },
@@ -43651,7 +43651,7 @@
     "name": "Lackrana",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7255",
     "log_pid": "loc769062b469c0"
   },
@@ -43659,7 +43659,7 @@
     "name": "Lughrata",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7255",
     "log_pid": "locc5d463f5b1b6"
   },
@@ -43667,7 +43667,7 @@
     "name": "Lady Barron",
     "admin_Level": "9",
     "place": "village",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7255",
     "log_pid": "locae57aa6108aa"
   },
@@ -43675,7 +43675,7 @@
     "name": "Palana",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7255",
     "log_pid": "loc9b0173e5c8f7"
   },
@@ -43683,7 +43683,7 @@
     "name": "Binalong Bay",
     "admin_Level": "9",
     "place": "village",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7216",
     "log_pid": "loc99d838329b2d"
   },
@@ -43691,7 +43691,7 @@
     "name": "Ansons Bay",
     "admin_Level": "9",
     "place": "village",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7264",
     "log_pid": "loca2a767630d37"
   },
@@ -43699,7 +43699,7 @@
     "name": "St Helens",
     "admin_Level": "9",
     "place": "town",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7216",
     "log_pid": "loc94954cdc227f"
   },
@@ -43707,7 +43707,7 @@
     "name": "Stieglitz",
     "admin_Level": "9",
     "place": "village",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7216",
     "log_pid": "loc1da64a3497fc"
   },
@@ -43715,7 +43715,7 @@
     "name": "Four Mile Creek",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7215",
     "log_pid": "loc2d9563d6da34"
   },
@@ -43723,7 +43723,7 @@
     "name": "Chain of Lagoons",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7215",
     "log_pid": "loc55a20de3a35f"
   },
@@ -43731,7 +43731,7 @@
     "name": "Douglas-Apsley",
     "admin_Level": "9",
     "place": "locality",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7215",
     "log_pid": "loc113019af87e4"
   },
@@ -43739,7 +43739,7 @@
     "name": "Scamander",
     "admin_Level": "9",
     "place": "town",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7215",
     "log_pid": "locac878cdbc137"
   },
@@ -43747,7 +43747,7 @@
     "name": "Douglas River",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7215",
     "log_pid": "loc786b7fe0d3f8"
   },
@@ -43755,7 +43755,7 @@
     "name": "Akaroa",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7216",
     "log_pid": "loc57b03651bc8e"
   },
@@ -43763,7 +43763,7 @@
     "name": "Seymour",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7215",
     "log_pid": "loc1a6376450e92"
   },
@@ -43771,7 +43771,7 @@
     "name": "Beaumaris",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7215",
     "log_pid": "loc06285a807f28"
   },
@@ -43779,7 +43779,7 @@
     "name": "Eddystone",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7264",
     "log_pid": "loc50aa30dc1b9e"
   },
@@ -43787,7 +43787,7 @@
     "name": "Falmouth",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7215",
     "log_pid": "locda3146d8b1fd"
   },
@@ -43795,7 +43795,7 @@
     "name": "Mount William",
     "admin_Level": "9",
     "place": "locality",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7264",
     "log_pid": "loc77c1dce138e0"
   },
@@ -43803,7 +43803,7 @@
     "name": "The Gardens",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7216",
     "log_pid": "loc45472c008243"
   },
@@ -43811,7 +43811,7 @@
     "name": "Bridport",
     "admin_Level": "9",
     "place": "town",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7262",
     "log_pid": "loc7a294dcd77ec"
   },
@@ -43819,7 +43819,7 @@
     "name": "Tomahawk",
     "admin_Level": "9",
     "place": "village",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7262",
     "log_pid": "loc72e3d78b2f1f"
   },
@@ -43827,7 +43827,7 @@
     "name": "Rushy Lagoon",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7264",
     "log_pid": "loc7853ac63accc"
   },
@@ -43835,7 +43835,7 @@
     "name": "Lisle",
     "admin_Level": "9",
     "place": "locality",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7260",
     "log_pid": "loc590c952aa706"
   },
@@ -43843,7 +43843,7 @@
     "name": "Waterhouse",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7262",
     "log_pid": "loc9cd35312a3f8"
   },
@@ -43851,7 +43851,7 @@
     "name": "Boobyalla",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7264",
     "log_pid": "loc7cb0ae918247"
   },
@@ -43859,7 +43859,7 @@
     "name": "Musselroe Bay",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7264",
     "log_pid": "loc28120af49607"
   },
@@ -43867,7 +43867,7 @@
     "name": "Cape Portland",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7264",
     "log_pid": "locaabbdb2770c5"
   },
@@ -43875,7 +43875,7 @@
     "name": "Bell Bay",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7253",
     "log_pid": "loc857aac2e84ec"
   },
@@ -43883,7 +43883,7 @@
     "name": "Hillwood",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7252",
     "log_pid": "loc942cef39f1e8"
   },
@@ -43891,7 +43891,7 @@
     "name": "Low Head",
     "admin_Level": "9",
     "place": "village",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7253",
     "log_pid": "locc8e52b0426d1"
   },
@@ -43899,7 +43899,7 @@
     "name": "Weymouth",
     "admin_Level": "9",
     "place": "village",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7252",
     "log_pid": "loc2f3219e9a07c"
   },
@@ -43907,7 +43907,7 @@
     "name": "Bellingham",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7254",
     "log_pid": "loc99010acde60d"
   },
@@ -43915,7 +43915,7 @@
     "name": "Beechford",
     "admin_Level": "9",
     "place": "village",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7252",
     "log_pid": "locf42a7f582fea"
   },
@@ -43923,7 +43923,7 @@
     "name": "Stony Head",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7252",
     "log_pid": "loc849a73c421fc"
   },
@@ -43931,7 +43931,7 @@
     "name": "Lulworth",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7252",
     "log_pid": "loc0760434f7a3c"
   },
@@ -43939,7 +43939,7 @@
     "name": "Mount Direction",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7252",
     "log_pid": "loc78e1fe44d6df"
   },
@@ -43947,7 +43947,7 @@
     "name": "Long Reach",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7253",
     "log_pid": "loc1b247a28ede2"
   },
@@ -43955,7 +43955,7 @@
     "name": "George Town",
     "admin_Level": "9",
     "place": "town",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7253",
     "log_pid": "loc25332b122f1e"
   },
@@ -43963,7 +43963,7 @@
     "name": "Windermere",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7252",
     "log_pid": "loca55a545f0563"
   },
@@ -43971,7 +43971,7 @@
     "name": "Trevallyn",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7250",
     "log_pid": "loc68ecefb13bc3"
   },
@@ -43979,7 +43979,7 @@
     "name": "Launceston",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7250",
     "log_pid": "locf11c4f3e9ae0"
   },
@@ -43987,7 +43987,7 @@
     "name": "Newstead",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7250",
     "log_pid": "loc0faa4215c982"
   },
@@ -43995,7 +43995,7 @@
     "name": "St Leonards",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7250",
     "log_pid": "loc08be735993e5"
   },
@@ -44003,7 +44003,7 @@
     "name": "Newnham",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7248",
     "log_pid": "loc27bc73bc41d2"
   },
@@ -44011,7 +44011,7 @@
     "name": "Mayfield",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7248",
     "log_pid": "locdea7cfef04a0"
   },
@@ -44019,7 +44019,7 @@
     "name": "Dilston",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7252",
     "log_pid": "loccceb0a205785"
   },
@@ -44027,7 +44027,7 @@
     "name": "Invermay",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7248",
     "log_pid": "loc61e0779a8c3f"
   },
@@ -44035,7 +44035,7 @@
     "name": "Punchbowl",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7249",
     "log_pid": "loc12ce6d510eb5"
   },
@@ -44043,7 +44043,7 @@
     "name": "Norwood",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7250",
     "log_pid": "loca28e82e4c3e2"
   },
@@ -44051,7 +44051,7 @@
     "name": "Prospect",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7250",
     "log_pid": "loc0c235350a81a"
   },
@@ -44059,7 +44059,7 @@
     "name": "Ravenswood",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7250",
     "log_pid": "locb507043c4954"
   },
@@ -44067,7 +44067,7 @@
     "name": "Swan Bay",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7252",
     "log_pid": "locba6fb82eed06"
   },
@@ -44075,7 +44075,7 @@
     "name": "Youngtown",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7249",
     "log_pid": "locaf0b9f2f9e62"
   },
@@ -44083,7 +44083,7 @@
     "name": "Summerhill",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7250",
     "log_pid": "loc5f71aea50878"
   },
@@ -44091,7 +44091,7 @@
     "name": "Waverley",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7250",
     "log_pid": "loc597ede9022dc"
   },
@@ -44099,7 +44099,7 @@
     "name": "Relbia",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7258",
     "log_pid": "locc26afab77cb7"
   },
@@ -44107,7 +44107,7 @@
     "name": "East Launceston",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7250",
     "log_pid": "loc89444cfe4003"
   },
@@ -44115,7 +44115,7 @@
     "name": "Kings Meadows",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7249",
     "log_pid": "loc431444cf5e1b"
   },
@@ -44123,7 +44123,7 @@
     "name": "Rocherlea",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7248",
     "log_pid": "loc68cfc1daaf1d"
   },
@@ -44131,7 +44131,7 @@
     "name": "Mowbray",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7248",
     "log_pid": "locb61b12ba4e4e"
   },
@@ -44139,7 +44139,7 @@
     "name": "West Launceston",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7250",
     "log_pid": "locdfff595154f8"
   },
@@ -44147,7 +44147,7 @@
     "name": "South Launceston",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7249",
     "log_pid": "loc0125be3ace60"
   },
@@ -44155,7 +44155,7 @@
     "name": "Bakers Beach",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7307",
     "log_pid": "locedec14c391f9"
   },
@@ -44163,7 +44163,7 @@
     "name": "Rosevears",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7277",
     "log_pid": "loc9c2ba0dfbf11"
   },
@@ -44171,7 +44171,7 @@
     "name": "Legana",
     "admin_Level": "9",
     "place": "town",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7277",
     "log_pid": "loc93b01d3aa5c3"
   },
@@ -44179,7 +44179,7 @@
     "name": "Deviot",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7275",
     "log_pid": "loc3bbcaaef5a4b"
   },
@@ -44187,7 +44187,7 @@
     "name": "Rowella",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7270",
     "log_pid": "loc59eb9488865e"
   },
@@ -44195,7 +44195,7 @@
     "name": "Beaconsfield",
     "admin_Level": "9",
     "place": "town",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7270",
     "log_pid": "locf9b3c2acc591"
   },
@@ -44203,7 +44203,7 @@
     "name": "Sidmouth",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7270",
     "log_pid": "loc6c33db889247"
   },
@@ -44211,7 +44211,7 @@
     "name": "Swan Point",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7275",
     "log_pid": "locb0d683682433"
   },
@@ -44219,7 +44219,7 @@
     "name": "Clarence Point",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7270",
     "log_pid": "locb73db802a8fe"
   },
@@ -44227,7 +44227,7 @@
     "name": "Blackwall",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7275",
     "log_pid": "loc76cbd67f858f"
   },
@@ -44235,7 +44235,7 @@
     "name": "Kelso",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7270",
     "log_pid": "loc1b5302ee660b"
   },
@@ -44243,7 +44243,7 @@
     "name": "Beauty Point",
     "admin_Level": "9",
     "place": "village",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7270",
     "log_pid": "loccf25b5d13bd1"
   },
@@ -44251,7 +44251,7 @@
     "name": "Kayena",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7270",
     "log_pid": "loc3d2e6a2e27bf"
   },
@@ -44259,7 +44259,7 @@
     "name": "Gravelly Beach",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7276",
     "log_pid": "loc6afa3d6b3342"
   },
@@ -44267,7 +44267,7 @@
     "name": "Lanena",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7275",
     "log_pid": "loc788d609ab2c9"
   },
@@ -44275,7 +44275,7 @@
     "name": "Exeter",
     "admin_Level": "9",
     "place": "town",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7275",
     "log_pid": "loc9795269c8c80"
   },
@@ -44283,7 +44283,7 @@
     "name": "Robigana",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7275",
     "log_pid": "loce89fb7f084dd"
   },
@@ -44291,7 +44291,7 @@
     "name": "Grindelwald",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7277",
     "log_pid": "loc15aced5e52d6"
   },
@@ -44299,7 +44299,7 @@
     "name": "Riverside",
     "admin_Level": "9",
     "place": "town",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7250",
     "log_pid": "loc314671f73fd5"
   },
@@ -44307,7 +44307,7 @@
     "name": "Greens Beach",
     "admin_Level": "9",
     "place": "village",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7270",
     "log_pid": "loc868826e3d76e"
   },
@@ -44315,7 +44315,7 @@
     "name": "Badger Head",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7270",
     "log_pid": "loc0ce85f0c6fc5"
   },
@@ -44323,7 +44323,7 @@
     "name": "Hawley Beach",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7307",
     "log_pid": "loc3e6005df39da"
   },
@@ -44331,7 +44331,7 @@
     "name": "Shearwater",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7307",
     "log_pid": "loc2faf6471c21e"
   },
@@ -44339,7 +44339,7 @@
     "name": "Tarleton",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7310",
     "log_pid": "locc41dc02332d2"
   },
@@ -44347,7 +44347,7 @@
     "name": "Squeaking Point",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7307",
     "log_pid": "locc484b55d0a02"
   },
@@ -44355,7 +44355,7 @@
     "name": "East Devonport",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7310",
     "log_pid": "loc81fd27a852d0"
   },
@@ -44363,7 +44363,7 @@
     "name": "Ambleside",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7310",
     "log_pid": "loc9354d0c625ae"
   },
@@ -44371,7 +44371,7 @@
     "name": "Wesley Vale",
     "admin_Level": "9",
     "place": "village",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7307",
     "log_pid": "loc2833eff0454d"
   },
@@ -44379,7 +44379,7 @@
     "name": "Acacia Hills",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7306",
     "log_pid": "loc90e03e2f44a7"
   },
@@ -44387,7 +44387,7 @@
     "name": "South Spreyton",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7310",
     "log_pid": "locb9dbef79ded2"
   },
@@ -44395,7 +44395,7 @@
     "name": "Northdown",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7307",
     "log_pid": "loc0a8f480bdac9"
   },
@@ -44403,7 +44403,7 @@
     "name": "Quoiba",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7310",
     "log_pid": "loc6adb620dcff0"
   },
@@ -44411,7 +44411,7 @@
     "name": "Forth",
     "admin_Level": "9",
     "place": "village",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7310",
     "log_pid": "locf908434f3538"
   },
@@ -44419,7 +44419,7 @@
     "name": "Aberdeen",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7310",
     "log_pid": "loc4d825533a27e"
   },
@@ -44427,7 +44427,7 @@
     "name": "Tugrah",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7310",
     "log_pid": "loce9d0cf2f6965"
   },
@@ -44435,7 +44435,7 @@
     "name": "Leith",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7315",
     "log_pid": "locb79753a35aa4"
   },
@@ -44443,7 +44443,7 @@
     "name": "Lillico",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7310",
     "log_pid": "loc5ecb10586bce"
   },
@@ -44451,7 +44451,7 @@
     "name": "Stony Rise",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7310",
     "log_pid": "loc3bb11b62d01b"
   },
@@ -44459,7 +44459,7 @@
     "name": "Miandetta",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7310",
     "log_pid": "loc27c927fa6e4f"
   },
@@ -44467,7 +44467,7 @@
     "name": "Devonport",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7310",
     "log_pid": "loc3ec5fd5ac40a"
   },
@@ -44475,7 +44475,7 @@
     "name": "Eugenana",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7310",
     "log_pid": "loc067d289e06a6"
   },
@@ -44483,7 +44483,7 @@
     "name": "Don",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7310",
     "log_pid": "locd372a8f12b73"
   },
@@ -44491,7 +44491,7 @@
     "name": "West Ulverstone",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7315",
     "log_pid": "loca0a1d568c42a"
   },
@@ -44499,7 +44499,7 @@
     "name": "Heybridge",
     "admin_Level": "9",
     "place": "village",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7316",
     "log_pid": "loc3c0824c21990"
   },
@@ -44507,7 +44507,7 @@
     "name": "Ulverstone",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7315",
     "log_pid": "loc27b20afb9d28"
   },
@@ -44515,7 +44515,7 @@
     "name": "Middlesex",
     "admin_Level": "9",
     "place": "locality",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7306",
     "log_pid": "loc6a29310fedce"
   },
@@ -44523,7 +44523,7 @@
     "name": "Preservation Bay",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7316",
     "log_pid": "locf92f459f9824"
   },
@@ -44531,7 +44531,7 @@
     "name": "Turners Beach",
     "admin_Level": "9",
     "place": "village",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7315",
     "log_pid": "locfa249fe0f7f3"
   },
@@ -44539,7 +44539,7 @@
     "name": "Sulphur Creek",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7316",
     "log_pid": "loc2b411b3e5113"
   },
@@ -44547,7 +44547,7 @@
     "name": "Howth",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7316",
     "log_pid": "loc29a86d06b082"
   },
@@ -44555,7 +44555,7 @@
     "name": "Penguin",
     "admin_Level": "9",
     "place": "town",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7316",
     "log_pid": "loc6eccb825816b"
   },
@@ -44563,7 +44563,7 @@
     "name": "Guildford",
     "admin_Level": "9",
     "place": "locality",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7321",
     "log_pid": "loc1ae90ee26331"
   },
@@ -44571,7 +44571,7 @@
     "name": "Havenview",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7320",
     "log_pid": "locc01f4a0a10dc"
   },
@@ -44579,7 +44579,7 @@
     "name": "Romaine",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7320",
     "log_pid": "locbf0ddb285658"
   },
@@ -44587,7 +44587,7 @@
     "name": "Round Hill",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7320",
     "log_pid": "loce326b2601ead"
   },
@@ -44595,7 +44595,7 @@
     "name": "Wivenhoe",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7320",
     "log_pid": "locf985b64d350c"
   },
@@ -44603,7 +44603,7 @@
     "name": "Hillcrest",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7320",
     "log_pid": "loce70d32165cd4"
   },
@@ -44611,7 +44611,7 @@
     "name": "Downlands",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7320",
     "log_pid": "loc6262c62f67e0"
   },
@@ -44619,7 +44619,7 @@
     "name": "Upper Burnie",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7320",
     "log_pid": "loc2fc0b137e030"
   },
@@ -44627,7 +44627,7 @@
     "name": "Brooklyn",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7320",
     "log_pid": "loc412f6e05040a"
   },
@@ -44635,7 +44635,7 @@
     "name": "Shorewell Park",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7320",
     "log_pid": "loc7e000c17da42"
   },
@@ -44643,7 +44643,7 @@
     "name": "Montello",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7320",
     "log_pid": "loc8027269197e7"
   },
@@ -44651,7 +44651,7 @@
     "name": "Ocean Vista",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7320",
     "log_pid": "locc5156de2f9d6"
   },
@@ -44659,7 +44659,7 @@
     "name": "Chasm Creek",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7321",
     "log_pid": "locd4af25b975e3"
   },
@@ -44667,7 +44667,7 @@
     "name": "Burnie",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7320",
     "log_pid": "loca33bbd294e17"
   },
@@ -44675,7 +44675,7 @@
     "name": "East Cam",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7321",
     "log_pid": "loc60a3ffa8a91d"
   },
@@ -44683,7 +44683,7 @@
     "name": "Emu Heights",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7320",
     "log_pid": "loc727a710bdfcd"
   },
@@ -44691,7 +44691,7 @@
     "name": "Camdale",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7320",
     "log_pid": "loce5c4103c58aa"
   },
@@ -44699,7 +44699,7 @@
     "name": "South Burnie",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7320",
     "log_pid": "loce5d187e9ee7e"
   },
@@ -44707,7 +44707,7 @@
     "name": "Parklands",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7320",
     "log_pid": "loce0882f78cb69"
   },
@@ -44715,7 +44715,7 @@
     "name": "Park Grove",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7320",
     "log_pid": "loc06f81ccc1574"
   },
@@ -44723,7 +44723,7 @@
     "name": "Cooee",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7320",
     "log_pid": "loce039f5e0b3b1"
   },
@@ -44731,7 +44731,7 @@
     "name": "Somerset",
     "admin_Level": "9",
     "place": "town",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7322",
     "log_pid": "locb0db6b5c75bb"
   },
@@ -44739,7 +44739,7 @@
     "name": "Acton",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7320",
     "log_pid": "loccb25ece28547"
   },
@@ -44747,7 +44747,7 @@
     "name": "Doctors Rocks",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7325",
     "log_pid": "locd8fd978e6499"
   },
@@ -44755,7 +44755,7 @@
     "name": "Boat Harbour",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7321",
     "log_pid": "locfd20a51bfd38"
   },
@@ -44763,7 +44763,7 @@
     "name": "Boat Harbour Beach",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7321",
     "log_pid": "loccfbd30280393"
   },
@@ -44771,7 +44771,7 @@
     "name": "Wynyard",
     "admin_Level": "9",
     "place": "town",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7325",
     "log_pid": "loc36bc6dda27c9"
   },
@@ -44779,7 +44779,7 @@
     "name": "Table Cape",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7325",
     "log_pid": "locdc1c55d4a089"
   },
@@ -44787,7 +44787,7 @@
     "name": "Sisters Beach",
     "admin_Level": "9",
     "place": "village",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7321",
     "log_pid": "loce181d471783c"
   },
@@ -44795,7 +44795,7 @@
     "name": "Parrawe",
     "admin_Level": "9",
     "place": "locality",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7321",
     "log_pid": "loc409b4d4b6201"
   },
@@ -44803,7 +44803,7 @@
     "name": "West Coast",
     "admin_Level": "9",
     "place": "locality",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7330",
     "log_pid": "loca522f0db671c"
   },
@@ -44811,7 +44811,7 @@
     "name": "Luina",
     "admin_Level": "9",
     "place": "locality",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7321",
     "log_pid": "loc8148e02de059"
   },
@@ -44819,7 +44819,7 @@
     "name": "Rocky Cape",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7321",
     "log_pid": "locf98c434bbad8"
   },
@@ -44827,7 +44827,7 @@
     "name": "Marrawah",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7330",
     "log_pid": "loc916635589f8e"
   },
@@ -44835,7 +44835,7 @@
     "name": "Stanley",
     "admin_Level": "9",
     "place": "village",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7331",
     "log_pid": "locc16080e1563b"
   },
@@ -44843,7 +44843,7 @@
     "name": "Port Latta",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7321",
     "log_pid": "locb5d6efb8ec87"
   },
@@ -44851,7 +44851,7 @@
     "name": "Hellyer",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7321",
     "log_pid": "loc0bf303a0b037"
   },
@@ -44859,7 +44859,7 @@
     "name": "Detention",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7321",
     "log_pid": "loc716a519973bd"
   },
@@ -44867,7 +44867,7 @@
     "name": "Woolnorth",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7330",
     "log_pid": "locbb1a0d8479c8"
   },
@@ -44875,7 +44875,7 @@
     "name": "Edgcumbe Beach",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7321",
     "log_pid": "loc811cf9c9cb4c"
   },
@@ -44883,7 +44883,7 @@
     "name": "Temma",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7330",
     "log_pid": "locf2e7f01a6edc"
   },
@@ -44891,7 +44891,7 @@
     "name": "Crayfish Creek",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7321",
     "log_pid": "loc235032212e38"
   },
@@ -44899,7 +44899,7 @@
     "name": "Cowrie Point",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7321",
     "log_pid": "locb11e4c4dd454"
   },
@@ -44907,7 +44907,7 @@
     "name": "Southwest",
     "admin_Level": "9",
     "place": "locality",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7116",
     "log_pid": "locdd38401fdd60"
   },
@@ -44915,7 +44915,7 @@
     "name": "Trial Harbour",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7469",
     "log_pid": "locd3ece39ed45c"
   },
@@ -44923,7 +44923,7 @@
     "name": "Granville Harbour",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7469",
     "log_pid": "locfa3e87b7eb74"
   },
@@ -44931,7 +44931,7 @@
     "name": "Strahan",
     "admin_Level": "9",
     "place": "town",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7468",
     "log_pid": "loc2b908315a767"
   },
@@ -44939,7 +44939,7 @@
     "name": "Macquarie Heads",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7468",
     "log_pid": "loc8cef8978a6f2"
   },
@@ -44947,7 +44947,7 @@
     "name": "Mersey Forest",
     "admin_Level": "9",
     "place": "locality",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7304",
     "log_pid": "loc11103f154013"
   },
@@ -44955,7 +44955,7 @@
     "name": "Mount Roland",
     "admin_Level": "9",
     "place": "locality",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7306",
     "log_pid": "locbc38ddacf096"
   },
@@ -44963,7 +44963,7 @@
     "name": "Travellers Rest",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7250",
     "log_pid": "loc347103eebae3"
   },
@@ -44971,7 +44971,7 @@
     "name": "Blackstone Heights",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7250",
     "log_pid": "loc5af16a6b95f1"
   },
@@ -44979,7 +44979,7 @@
     "name": "Prospect Vale",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7250",
     "log_pid": "loc7791c3abba45"
   },
@@ -44987,7 +44987,7 @@
     "name": "Walls of Jerusalem",
     "admin_Level": "9",
     "place": "locality",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7304",
     "log_pid": "locb5d51b2c60cc"
   },
@@ -44995,7 +44995,7 @@
     "name": "Central Plateau",
     "admin_Level": "9",
     "place": "locality",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7304",
     "log_pid": "loc7ed497e2f358"
   },
@@ -45003,7 +45003,7 @@
     "name": "Florentine",
     "admin_Level": "9",
     "place": "locality",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7140",
     "log_pid": "locb536281953b2"
   },
@@ -45011,7 +45011,7 @@
     "name": "Lawitta",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7140",
     "log_pid": "loc2f9b481982cb"
   },
@@ -45019,7 +45019,7 @@
     "name": "Styx",
     "admin_Level": "9",
     "place": "locality",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7140",
     "log_pid": "loc198bf7b1e021"
   },
@@ -45027,7 +45027,7 @@
     "name": "Claremont",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7011",
     "log_pid": "loc3f7e7311b662"
   },
@@ -45035,7 +45035,7 @@
     "name": "Wellington Park",
     "admin_Level": "9",
     "place": "locality",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7054",
     "log_pid": "loc427a198a9e16"
   },
@@ -45043,7 +45043,7 @@
     "name": "Granton",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7030",
     "log_pid": "loc90d058e672a3"
   },
@@ -45051,7 +45051,7 @@
     "name": "Mount Field",
     "admin_Level": "9",
     "place": "locality",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7140",
     "log_pid": "loc9160500e25a7"
   },
@@ -45059,7 +45059,7 @@
     "name": "Magra",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7140",
     "log_pid": "loc0a44990c3db9"
   },
@@ -45067,7 +45067,7 @@
     "name": "Bridgewater",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7030",
     "log_pid": "locb1b849ff10b2"
   },
@@ -45075,7 +45075,7 @@
     "name": "Devon Hills",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7300",
     "log_pid": "loc12b4c9559291"
   },
@@ -45083,7 +45083,7 @@
     "name": "Millers Bluff",
     "admin_Level": "9",
     "place": "locality",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7030",
     "log_pid": "loc1c5cd7c87793"
   },
@@ -45091,7 +45091,7 @@
     "name": "Ben Lomond",
     "admin_Level": "9",
     "place": "locality",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7212",
     "log_pid": "loce2f8a27c30f2"
   },
@@ -45099,7 +45099,7 @@
     "name": "Lake Sorell",
     "admin_Level": "9",
     "place": "locality",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7030",
     "log_pid": "loc8d46c47787bd"
   },
@@ -45107,7 +45107,7 @@
     "name": "Spring Beach",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7190",
     "log_pid": "loc04d9a80f2b24"
   },
@@ -45115,7 +45115,7 @@
     "name": "Bicheno",
     "admin_Level": "9",
     "place": "town",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7215",
     "log_pid": "loce665a74ea044"
   },
@@ -45123,7 +45123,7 @@
     "name": "Triabunna",
     "admin_Level": "9",
     "place": "town",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7190",
     "log_pid": "loc7797e2dfe35c"
   },
@@ -45131,7 +45131,7 @@
     "name": "Friendly Beaches",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7215",
     "log_pid": "loc01f1ecd246a0"
   },
@@ -45139,7 +45139,7 @@
     "name": "Freycinet",
     "admin_Level": "9",
     "place": "locality",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7215",
     "log_pid": "loc869016a35a58"
   },
@@ -45147,7 +45147,7 @@
     "name": "Little Swanport",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7190",
     "log_pid": "locaa74c7c54281"
   },
@@ -45155,7 +45155,7 @@
     "name": "Dolphin Sands",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7190",
     "log_pid": "loc13eec2bc73ad"
   },
@@ -45163,7 +45163,7 @@
     "name": "Bream Creek",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7175",
     "log_pid": "loc5e8ae91bf448"
   },
@@ -45171,7 +45171,7 @@
     "name": "Swansea",
     "admin_Level": "9",
     "place": "town",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7190",
     "log_pid": "loc40561b8a3bb9"
   },
@@ -45179,7 +45179,7 @@
     "name": "Coles Bay",
     "admin_Level": "9",
     "place": "town",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7215",
     "log_pid": "loc5ac935cea5b9"
   },
@@ -45187,7 +45187,7 @@
     "name": "Maria Island",
     "admin_Level": "9",
     "place": "locality",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7190",
     "log_pid": "loce8f2c3887793"
   },
@@ -45195,7 +45195,7 @@
     "name": "Schouten Island",
     "admin_Level": "9",
     "place": "locality",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7215",
     "log_pid": "loc18ea22dd4151"
   },
@@ -45203,7 +45203,7 @@
     "name": "Orford",
     "admin_Level": "9",
     "place": "town",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7190",
     "log_pid": "locac9176bf29cb"
   },
@@ -45211,7 +45211,7 @@
     "name": "Rheban",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7190",
     "log_pid": "loc29d48708bcc4"
   },
@@ -45219,7 +45219,7 @@
     "name": "Rocky Hills",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7190",
     "log_pid": "loce1e987a57926"
   },
@@ -45227,7 +45227,7 @@
     "name": "Butlers Gorge",
     "admin_Level": "9",
     "place": "locality",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7140",
     "log_pid": "locc79ece9e00b9"
   },
@@ -45235,7 +45235,7 @@
     "name": "Pontville",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7030",
     "log_pid": "locb44e639007de"
   },
@@ -45243,7 +45243,7 @@
     "name": "Tunnack",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7120",
     "log_pid": "loc23f8ce3524b2"
   },
@@ -45251,7 +45251,7 @@
     "name": "Dunalley",
     "admin_Level": "9",
     "place": "town",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7177",
     "log_pid": "loc9b79621cc73f"
   },
@@ -45259,7 +45259,7 @@
     "name": "Marion Bay",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7175",
     "log_pid": "loc789bf015836c"
   },
@@ -45267,7 +45267,7 @@
     "name": "Boomer Bay",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7177",
     "log_pid": "loc6f6e4dfac8fa"
   },
@@ -45275,7 +45275,7 @@
     "name": "Seven Mile Beach",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7170",
     "log_pid": "loc8e12f73c7dcf"
   },
@@ -45283,7 +45283,7 @@
     "name": "Primrose Sands",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7173",
     "log_pid": "loc701abdefd9ac"
   },
@@ -45291,7 +45291,7 @@
     "name": "Connellys Marsh",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7173",
     "log_pid": "loc676210a3e987"
   },
@@ -45299,7 +45299,7 @@
     "name": "Sorell",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7172",
     "log_pid": "loc20efe678919a"
   },
@@ -45307,7 +45307,7 @@
     "name": "Lewisham",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7173",
     "log_pid": "loc4bff377baee1"
   },
@@ -45315,7 +45315,7 @@
     "name": "Carlton",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7173",
     "log_pid": "loc9d18fb10aee0"
   },
@@ -45323,7 +45323,7 @@
     "name": "Midway Point",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7171",
     "log_pid": "loc97b591387871"
   },
@@ -45331,7 +45331,7 @@
     "name": "Dodges Ferry",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7173",
     "log_pid": "loc711dd9162a62"
   },
@@ -45339,7 +45339,7 @@
     "name": "Carlton River",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7173",
     "log_pid": "locbdf9791ad6a5"
   },
@@ -45347,7 +45347,7 @@
     "name": "Eaglehawk Neck",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7179",
     "log_pid": "loc13a5a4768834"
   },
@@ -45355,7 +45355,7 @@
     "name": "Taranna",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7180",
     "log_pid": "loc60175a221742"
   },
@@ -45363,7 +45363,7 @@
     "name": "Sloping Main",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7186",
     "log_pid": "loc3a7dc35a90e2"
   },
@@ -45371,7 +45371,7 @@
     "name": "Port Arthur",
     "admin_Level": "9",
     "place": "village",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7182",
     "log_pid": "locbb32e1449ca9"
   },
@@ -45379,7 +45379,7 @@
     "name": "White Beach",
     "admin_Level": "9",
     "place": "village",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7184",
     "log_pid": "loc8fd39ec630a4"
   },
@@ -45387,7 +45387,7 @@
     "name": "Koonya",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7187",
     "log_pid": "locd00e814d3e96"
   },
@@ -45395,7 +45395,7 @@
     "name": "Saltwater River",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7186",
     "log_pid": "locceb90da034b9"
   },
@@ -45403,7 +45403,7 @@
     "name": "Premaydena",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7185",
     "log_pid": "loc9608ea86fafc"
   },
@@ -45411,7 +45411,7 @@
     "name": "Murdunna",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7178",
     "log_pid": "loc9b419efc14bf"
   },
@@ -45419,7 +45419,7 @@
     "name": "Cape Raoul",
     "admin_Level": "9",
     "place": "locality",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7184",
     "log_pid": "loc5f88b09fceb6"
   },
@@ -45427,7 +45427,7 @@
     "name": "Cape Pillar",
     "admin_Level": "9",
     "place": "locality",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7182",
     "log_pid": "loc4f7dd2d80f79"
   },
@@ -45435,7 +45435,7 @@
     "name": "Honeywood",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7017",
     "log_pid": "loc702076c3a265"
   },
@@ -45443,7 +45443,7 @@
     "name": "Gagebrook",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7030",
     "log_pid": "loc2e3ee6ac4bc5"
   },
@@ -45451,7 +45451,7 @@
     "name": "Old Beach",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7017",
     "log_pid": "loc925a9d281cdd"
   },
@@ -45459,7 +45459,7 @@
     "name": "Otago",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7017",
     "log_pid": "loc19c7d633a4a1"
   },
@@ -45467,7 +45467,7 @@
     "name": "Herdsmans Cove",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7030",
     "log_pid": "loc1d825cbfc2e7"
   },
@@ -45475,7 +45475,7 @@
     "name": "Risdon",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7017",
     "log_pid": "locf840b3109422"
   },
@@ -45483,7 +45483,7 @@
     "name": "Rosetta",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7010",
     "log_pid": "loc95ef82023e94"
   },
@@ -45491,7 +45491,7 @@
     "name": "Montrose",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7010",
     "log_pid": "loc646fabe6336c"
   },
@@ -45499,7 +45499,7 @@
     "name": "Chigwell",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7011",
     "log_pid": "loc70a6a99a13b7"
   },
@@ -45507,7 +45507,7 @@
     "name": "Derwent Park",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7009",
     "log_pid": "loc719428904f6a"
   },
@@ -45515,7 +45515,7 @@
     "name": "Lenah Valley",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7008",
     "log_pid": "locfa1bcf5ca177"
   },
@@ -45523,7 +45523,7 @@
     "name": "Berriedale",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7011",
     "log_pid": "locf6da10082782"
   },
@@ -45531,7 +45531,7 @@
     "name": "Goodwood",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7010",
     "log_pid": "loc3c765fa96559"
   },
@@ -45539,7 +45539,7 @@
     "name": "New Town",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7008",
     "log_pid": "loc0f7a581b85b7"
   },
@@ -45547,7 +45547,7 @@
     "name": "Moonah",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7009",
     "log_pid": "loc720b614d77b0"
   },
@@ -45555,7 +45555,7 @@
     "name": "Dowsing Point",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7010",
     "log_pid": "locbbce348039e9"
   },
@@ -45563,7 +45563,7 @@
     "name": "West Moonah",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7009",
     "log_pid": "loce0bd42e8d16b"
   },
@@ -45571,7 +45571,7 @@
     "name": "Lutana",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7009",
     "log_pid": "loc419eecad1d07"
   },
@@ -45579,7 +45579,7 @@
     "name": "Austins Ferry",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7011",
     "log_pid": "loc7b4b1d0fb24b"
   },
@@ -45587,7 +45587,7 @@
     "name": "Dynnyrne",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7005",
     "log_pid": "loc99b8ec2c9511"
   },
@@ -45595,7 +45595,7 @@
     "name": "Fern Tree",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7054",
     "log_pid": "loccbd5af5c3f37"
   },
@@ -45603,7 +45603,7 @@
     "name": "Glebe",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7000",
     "log_pid": "loc851de54ee6df"
   },
@@ -45611,7 +45611,7 @@
     "name": "Battery Point",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7004",
     "log_pid": "loc5426318f90dd"
   },
@@ -45619,7 +45619,7 @@
     "name": "West Hobart",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7000",
     "log_pid": "locbb1d6353b676"
   },
@@ -45627,7 +45627,7 @@
     "name": "Ridgeway",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7054",
     "log_pid": "locd4afb8a17f2a"
   },
@@ -45635,7 +45635,7 @@
     "name": "Mount Nelson",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7007",
     "log_pid": "locab95cf455d36"
   },
@@ -45643,7 +45643,7 @@
     "name": "North Hobart",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7000",
     "log_pid": "loc5bcdd5641c06"
   },
@@ -45651,7 +45651,7 @@
     "name": "Hobart",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7000",
     "log_pid": "loccbffb11990f2"
   },
@@ -45659,7 +45659,7 @@
     "name": "Taroona",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7053",
     "log_pid": "loc4025853ce791"
   },
@@ -45667,7 +45667,7 @@
     "name": "Tolmans Hill",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7007",
     "log_pid": "loc55d43c674f8f"
   },
@@ -45675,7 +45675,7 @@
     "name": "Queens Domain",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7000",
     "log_pid": "loc4f941a4a61fc"
   },
@@ -45683,7 +45683,7 @@
     "name": "Mount Stuart",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7000",
     "log_pid": "loc721a6fe088b1"
   },
@@ -45691,7 +45691,7 @@
     "name": "Sandy Bay",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7005",
     "log_pid": "locd6669d15d9b9"
   },
@@ -45699,7 +45699,7 @@
     "name": "South Hobart",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7004",
     "log_pid": "locc31698d824d0"
   },
@@ -45707,7 +45707,7 @@
     "name": "Tranmere",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7018",
     "log_pid": "locbe229bc69c61"
   },
@@ -45715,7 +45715,7 @@
     "name": "Rose Bay",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7015",
     "log_pid": "loc87ffd2266885"
   },
@@ -45723,7 +45723,7 @@
     "name": "Lauderdale",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7021",
     "log_pid": "locd4a0ec6420ef"
   },
@@ -45731,7 +45731,7 @@
     "name": "Rokeby",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7019",
     "log_pid": "locf7e901f8116e"
   },
@@ -45739,7 +45739,7 @@
     "name": "Cremorne",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7024",
     "log_pid": "loc069338e5fd96"
   },
@@ -45747,7 +45747,7 @@
     "name": "Rosny Park",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7018",
     "log_pid": "locefad02525ada"
   },
@@ -45755,7 +45755,7 @@
     "name": "Rosny",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7018",
     "log_pid": "loca5e1bf6a33d8"
   },
@@ -45763,7 +45763,7 @@
     "name": "Bellerive",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7018",
     "log_pid": "loc716518f04eee"
   },
@@ -45771,7 +45771,7 @@
     "name": "Sandford",
     "admin_Level": "9",
     "place": "village",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7020",
     "log_pid": "loc6a240579ef3b"
   },
@@ -45779,7 +45779,7 @@
     "name": "Oakdowns",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7019",
     "log_pid": "loc4452dd90dff5"
   },
@@ -45787,7 +45787,7 @@
     "name": "Geilston Bay",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7015",
     "log_pid": "loc90a681fd656d"
   },
@@ -45795,7 +45795,7 @@
     "name": "Lindisfarne",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7015",
     "log_pid": "loc045c1b3203ef"
   },
@@ -45803,7 +45803,7 @@
     "name": "Howrah",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7018",
     "log_pid": "loc7e8f09872854"
   },
@@ -45811,7 +45811,7 @@
     "name": "Opossum Bay",
     "admin_Level": "9",
     "place": "village",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7023",
     "log_pid": "loc311f22350c87"
   },
@@ -45819,7 +45819,7 @@
     "name": "Clarendon Vale",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7019",
     "log_pid": "loc5496dc2e0eee"
   },
@@ -45827,7 +45827,7 @@
     "name": "Montagu Bay",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7018",
     "log_pid": "locac1cdcbcc5b5"
   },
@@ -45835,7 +45835,7 @@
     "name": "Mornington",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7018",
     "log_pid": "loc9e3d82a67019"
   },
@@ -45843,7 +45843,7 @@
     "name": "Clifton Beach",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7020",
     "log_pid": "loc579f9f98d590"
   },
@@ -45851,7 +45851,7 @@
     "name": "Acton Park",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7170",
     "log_pid": "locfcb0dd61c078"
   },
@@ -45859,7 +45859,7 @@
     "name": "Warrane",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7018",
     "log_pid": "loca99c1a967796"
   },
@@ -45867,7 +45867,7 @@
     "name": "Mount Rumney",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7170",
     "log_pid": "loc3b827273a6e8"
   },
@@ -45875,7 +45875,7 @@
     "name": "Cambridge",
     "admin_Level": "9",
     "place": "village",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7170",
     "log_pid": "loc920850cd5627"
   },
@@ -45883,7 +45883,7 @@
     "name": "South Arm",
     "admin_Level": "9",
     "place": "village",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7022",
     "log_pid": "locb3174e7a54dc"
   },
@@ -45891,7 +45891,7 @@
     "name": "Roches Beach",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7170",
     "log_pid": "loc9de649a7f737"
   },
@@ -45899,7 +45899,7 @@
     "name": "Risdon Vale",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7016",
     "log_pid": "loc6d11eb4decff"
   },
@@ -45907,7 +45907,7 @@
     "name": "Recherche",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7109",
     "log_pid": "loc266088f3c93b"
   },
@@ -45915,7 +45915,7 @@
     "name": "Ranelagh",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7109",
     "log_pid": "loc59132bdb7e10"
   },
@@ -45923,7 +45923,7 @@
     "name": "Southport Lagoon",
     "admin_Level": "9",
     "place": "locality",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7109",
     "log_pid": "loc399b51271dc3"
   },
@@ -45931,7 +45931,7 @@
     "name": "Margate",
     "admin_Level": "9",
     "place": "town",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7054",
     "log_pid": "loccbd845602c5b"
   },
@@ -45939,7 +45939,7 @@
     "name": "Southport",
     "admin_Level": "9",
     "place": "village",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7109",
     "log_pid": "loc6610ec7e0382"
   },
@@ -45947,7 +45947,7 @@
     "name": "Middleton",
     "admin_Level": "9",
     "place": "village",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7163",
     "log_pid": "loc80faf9729d6f"
   },
@@ -45955,7 +45955,7 @@
     "name": "Woodbridge",
     "admin_Level": "9",
     "place": "village",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7162",
     "log_pid": "loc9830aa540dce"
   },
@@ -45963,7 +45963,7 @@
     "name": "Ida Bay",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7109",
     "log_pid": "loc7f98314cc70a"
   },
@@ -45971,7 +45971,7 @@
     "name": "Dover",
     "admin_Level": "9",
     "place": "town",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7117",
     "log_pid": "loc83e422126662"
   },
@@ -45979,7 +45979,7 @@
     "name": "Strathblane",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7109",
     "log_pid": "locf1bfbe5f6476"
   },
@@ -45987,7 +45987,7 @@
     "name": "Snug",
     "admin_Level": "9",
     "place": "town",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7054",
     "log_pid": "loca7cfdae5cbc6"
   },
@@ -45995,7 +45995,7 @@
     "name": "Oyster Cove",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7150",
     "log_pid": "loc24ae82ffa646"
   },
@@ -46003,7 +46003,7 @@
     "name": "Gordon",
     "admin_Level": "9",
     "place": "village",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7150",
     "log_pid": "locd35b279e22a0"
   },
@@ -46011,7 +46011,7 @@
     "name": "Tinderbox",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7054",
     "log_pid": "locb3171830cbbb"
   },
@@ -46019,7 +46019,7 @@
     "name": "Barretta",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7054",
     "log_pid": "loc50168e5bff9f"
   },
@@ -46027,7 +46027,7 @@
     "name": "Great Bay",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7150",
     "log_pid": "loc7aa5662f6d94"
   },
@@ -46035,7 +46035,7 @@
     "name": "Kingston Beach",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7050",
     "log_pid": "locf459926c4f04"
   },
@@ -46043,7 +46043,7 @@
     "name": "Lunawanna",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7150",
     "log_pid": "locc0ad3c813908"
   },
@@ -46051,7 +46051,7 @@
     "name": "South Bruny",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7150",
     "log_pid": "loc44e047912a79"
   },
@@ -46059,7 +46059,7 @@
     "name": "Electrona",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7054",
     "log_pid": "loc763019f373b9"
   },
@@ -46067,7 +46067,7 @@
     "name": "Coningham",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7054",
     "log_pid": "loca7a7a1721cf6"
   },
@@ -46075,7 +46075,7 @@
     "name": "Killora",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7150",
     "log_pid": "loc61b5c14454e7"
   },
@@ -46083,7 +46083,7 @@
     "name": "Barnes Bay",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7150",
     "log_pid": "loc1bf3df2765c8"
   },
@@ -46091,7 +46091,7 @@
     "name": "Kettering",
     "admin_Level": "9",
     "place": "village",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7155",
     "log_pid": "loc667820abbf6e"
   },
@@ -46099,7 +46099,7 @@
     "name": "Lower Snug",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7054",
     "log_pid": "loc516a365a1c17"
   },
@@ -46107,7 +46107,7 @@
     "name": "Alonnah",
     "admin_Level": "9",
     "place": "village",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7150",
     "log_pid": "loc910d0488253c"
   },
@@ -46115,7 +46115,7 @@
     "name": "Bonnet Hill",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7053",
     "log_pid": "locb21fb7eb11cd"
   },
@@ -46123,7 +46123,7 @@
     "name": "Simpsons Bay",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7150",
     "log_pid": "loc704998c81d76"
   },
@@ -46131,7 +46131,7 @@
     "name": "Apollo Bay",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7150",
     "log_pid": "loc4f19d372884e"
   },
@@ -46139,7 +46139,7 @@
     "name": "Huntingfield",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7055",
     "log_pid": "locad2be6e3a5c2"
   },
@@ -46147,7 +46147,7 @@
     "name": "Howden",
     "admin_Level": "9",
     "place": "village",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7054",
     "log_pid": "locf1d0648a6206"
   },
@@ -46155,7 +46155,7 @@
     "name": "Birchs Bay",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7162",
     "log_pid": "loc7119956c3556"
   },
@@ -46163,7 +46163,7 @@
     "name": "Adventure Bay",
     "admin_Level": "9",
     "place": "town",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7150",
     "log_pid": "loc5064161f508f"
   },
@@ -46171,7 +46171,7 @@
     "name": "North Bruny",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7150",
     "log_pid": "locc384a9e0ce0d"
   },
@@ -46179,7 +46179,7 @@
     "name": "Dennes Point",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7150",
     "log_pid": "locbb1791f1ac87"
   },
@@ -46187,7 +46187,7 @@
     "name": "Blackmans Bay",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7052",
     "log_pid": "locdc5afd63f6d6"
   },
@@ -46195,7 +46195,7 @@
     "name": "Flowerpot",
     "admin_Level": "9",
     "place": "hamlet",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7163",
     "log_pid": "loc7dc3a6f85352"
   },
@@ -46483,7 +46483,7 @@
     "name": "Burnside",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "QLD",
     "postal_Code": "4560",
     "log_pid": "loca6c7b767ab33"
   },
@@ -46491,7 +46491,7 @@
     "name": "Nambour",
     "admin_Level": "9",
     "place": "town",
-    "state": "",
+    "state": "QLD",
     "postal_Code": "4560",
     "log_pid": "locb0dd6bbcbff3"
   },
@@ -46499,7 +46499,7 @@
     "name": "Imbil",
     "admin_Level": "9",
     "place": "village",
-    "state": "",
+    "state": "QLD",
     "postal_Code": "4570",
     "log_pid": "locb8c009acaa12"
   },
@@ -46507,7 +46507,7 @@
     "name": "Southport",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "QLD",
     "postal_Code": "4215",
     "log_pid": "locf4b9155c22e0"
   },
@@ -46515,7 +46515,7 @@
     "name": "Tewantin",
     "admin_Level": "9",
     "place": "town",
-    "state": "",
+    "state": "QLD",
     "postal_Code": "4565",
     "log_pid": "loc8292d24fc75e"
   },
@@ -46523,7 +46523,7 @@
     "name": "Isisford",
     "admin_Level": "9",
     "place": "village",
-    "state": "",
+    "state": "QLD",
     "postal_Code": "4731",
     "log_pid": "loc585f5c8ef22a"
   },
@@ -46531,7 +46531,7 @@
     "name": "Hope Vale",
     "admin_Level": "9",
     "place": "town",
-    "state": "",
+    "state": "QLD",
     "postal_Code": "4895",
     "log_pid": "locde6642a8c709"
   },
@@ -46539,7 +46539,7 @@
     "name": "Claraville",
     "admin_Level": "9",
     "place": "locality",
-    "state": "",
+    "state": "QLD",
     "postal_Code": "4871",
     "log_pid": "loc6adde9bfde10"
   },
@@ -47043,7 +47043,7 @@
     "name": "Ti Tree",
     "admin_Level": "9",
     "place": "village",
-    "state": "",
+    "state": "NT",
     "postal_Code": "0872",
     "log_pid": "loca7520b91a9e8"
   },
@@ -47179,7 +47179,7 @@
     "name": "Garden Island",
     "admin_Level": "9",
     "place": "locality",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7112",
     "log_pid": "loc77f3b0b30bb6"
   },
@@ -47187,7 +47187,7 @@
     "name": "Huon Island",
     "admin_Level": "9",
     "place": "locality",
-    "state": "",
+    "state": "TAS",
     "postal_Code": "7112",
     "log_pid": "loc2000e989c48b"
   },
@@ -47195,7 +47195,7 @@
     "name": "Yaraka",
     "admin_Level": "9",
     "place": "village",
-    "state": "",
+    "state": "QLD",
     "postal_Code": "4731",
     "log_pid": "locbf08d121f6aa"
   },
@@ -47203,7 +47203,7 @@
     "name": "Riverlea Park",
     "admin_Level": "9",
     "place": "locality",
-    "state": "",
+    "state": "SA",
     "postal_Code": "5120",
     "log_pid": ""
   },
@@ -47211,7 +47211,7 @@
     "name": "Marathon",
     "admin_Level": "9",
     "place": "locality",
-    "state": "",
+    "state": "QLD",
     "postal_Code": "4821",
     "log_pid": "loc64d5832b625f"
   },
@@ -47219,7 +47219,7 @@
     "name": "Doobarda",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "WA",
     "postal_Code": "6112",
     "log_pid": ""
   },
@@ -47227,7 +47227,7 @@
     "name": "Beloon",
     "admin_Level": "9",
     "place": "locality",
-    "state": "",
+    "state": "NSW",
     "postal_Code": "2787",
     "log_pid": "locv_s5aA8S9kjx"
   },
@@ -47235,7 +47235,7 @@
     "name": "Jooriland",
     "admin_Level": "9",
     "place": "locality",
-    "state": "",
+    "state": "NSW",
     "postal_Code": "2787",
     "log_pid": "lcpknpA8d2SHjoI"
   },
@@ -47243,7 +47243,7 @@
     "name": "Bindook",
     "admin_Level": "9",
     "place": "locality",
-    "state": "",
+    "state": "NSW",
     "postal_Code": "2787",
     "log_pid": "locwEs8e1LHcr0K"
   },
@@ -47251,7 +47251,7 @@
     "name": "Kowmung",
     "admin_Level": "9",
     "place": "locality",
-    "state": "",
+    "state": "NSW",
     "postal_Code": "2787",
     "log_pid": "locz2D6DO54hrbm"
   },
@@ -47259,7 +47259,7 @@
     "name": "Burragorang Valley",
     "admin_Level": "9",
     "place": "locality",
-    "state": "",
+    "state": "NSW",
     "postal_Code": "2570",
     "log_pid": "locRF6pK3W0llNu"
   },
@@ -47267,7 +47267,7 @@
     "name": "Bimlow",
     "admin_Level": "9",
     "place": "locality",
-    "state": "",
+    "state": "NSW",
     "postal_Code": "2787",
     "log_pid": "locsunBisn36NNo"
   },
@@ -47275,7 +47275,7 @@
     "name": "Brereton",
     "admin_Level": "9",
     "place": "locality",
-    "state": "",
+    "state": "NSW",
     "postal_Code": "2752",
     "log_pid": "locExjZCLPLeW12"
   },
@@ -47283,7 +47283,7 @@
     "name": "Kedumba",
     "admin_Level": "9",
     "place": "locality",
-    "state": "",
+    "state": "NSW",
     "postal_Code": "2782",
     "log_pid": "locPQtj9Px7WB_i"
   },
@@ -47291,7 +47291,7 @@
     "name": "Bradfield",
     "admin_Level": "9",
     "place": "village",
-    "state": "",
+    "state": "NSW",
     "postal_Code": "2556",
     "log_pid": ""
   },
@@ -47299,7 +47299,7 @@
     "name": "Tesselate Hill",
     "admin_Level": "9",
     "place": "locality",
-    "state": "",
+    "state": "NSW",
     "postal_Code": "2787",
     "log_pid": ""
   },
@@ -47307,7 +47307,7 @@
     "name": "Carmarthen",
     "admin_Level": "9",
     "place": "locality",
-    "state": "",
+    "state": "NSW",
     "postal_Code": "2787",
     "log_pid": ""
   },
@@ -47315,7 +47315,7 @@
     "name": "Birrabang",
     "admin_Level": "9",
     "place": "locality",
-    "state": "",
+    "state": "NSW",
     "postal_Code": "2787",
     "log_pid": ""
   },
@@ -47323,7 +47323,7 @@
     "name": "Burramoko",
     "admin_Level": "9",
     "place": "locality",
-    "state": "",
+    "state": "NSW",
     "postal_Code": "2787",
     "log_pid": ""
   },
@@ -47331,7 +47331,7 @@
     "name": "Govetts",
     "admin_Level": "9",
     "place": "locality",
-    "state": "",
+    "state": "NSW",
     "postal_Code": "2787",
     "log_pid": ""
   },
@@ -47339,7 +47339,7 @@
     "name": "Kariwoga",
     "admin_Level": "9",
     "place": "locality",
-    "state": "",
+    "state": "NSW",
     "postal_Code": "2787",
     "log_pid": ""
   },
@@ -47347,7 +47347,7 @@
     "name": "Rocklily Ridge",
     "admin_Level": "9",
     "place": "locality",
-    "state": "",
+    "state": "NSW",
     "postal_Code": "2787",
     "log_pid": ""
   },
@@ -47355,7 +47355,7 @@
     "name": "Narrow Neck",
     "admin_Level": "9",
     "place": "locality",
-    "state": "",
+    "state": "NSW",
     "postal_Code": "2787",
     "log_pid": ""
   },
@@ -47363,7 +47363,7 @@
     "name": "Jamison Valley",
     "admin_Level": "9",
     "place": "locality",
-    "state": "",
+    "state": "NSW",
     "postal_Code": "2787",
     "log_pid": ""
   },
@@ -47371,7 +47371,7 @@
     "name": "Mount Portal",
     "admin_Level": "9",
     "place": "locality",
-    "state": "",
+    "state": "NSW",
     "postal_Code": "2787",
     "log_pid": ""
   },
@@ -47379,7 +47379,7 @@
     "name": "Massif Ridge",
     "admin_Level": "9",
     "place": "locality",
-    "state": "",
+    "state": "NSW",
     "postal_Code": "2787",
     "log_pid": ""
   },
@@ -47387,7 +47387,7 @@
     "name": "Blue Labyrinith",
     "admin_Level": "9",
     "place": "locality",
-    "state": "",
+    "state": "NSW",
     "postal_Code": "2787",
     "log_pid": ""
   },
@@ -47395,7 +47395,7 @@
     "name": "Ingar",
     "admin_Level": "9",
     "place": "locality",
-    "state": "",
+    "state": "NSW",
     "postal_Code": "2786",
     "log_pid": ""
   },
@@ -47403,7 +47403,7 @@
     "name": "Garie",
     "admin_Level": "9",
     "place": "locality",
-    "state": "",
+    "state": "NSW",
     "postal_Code": "2232",
     "log_pid": ""
   },
@@ -47411,7 +47411,7 @@
     "name": "Goarra",
     "admin_Level": "9",
     "place": "locality",
-    "state": "",
+    "state": "NSW",
     "postal_Code": "2232",
     "log_pid": ""
   },
@@ -47419,7 +47419,7 @@
     "name": "Uloola",
     "admin_Level": "9",
     "place": "locality",
-    "state": "",
+    "state": "NSW",
     "postal_Code": "2232",
     "log_pid": ""
   },
@@ -47427,7 +47427,7 @@
     "name": "Yenabilli",
     "admin_Level": "9",
     "place": "locality",
-    "state": "",
+    "state": "NSW",
     "postal_Code": "2232",
     "log_pid": ""
   },
@@ -47435,7 +47435,7 @@
     "name": "Audley",
     "admin_Level": "9",
     "place": "locality",
-    "state": "",
+    "state": "NSW",
     "postal_Code": "2232",
     "log_pid": ""
   },
@@ -47443,7 +47443,7 @@
     "name": "Warumbul",
     "admin_Level": "9",
     "place": "locality",
-    "state": "",
+    "state": "NSW",
     "postal_Code": "2232",
     "log_pid": ""
   },
@@ -47451,7 +47451,7 @@
     "name": "Palona",
     "admin_Level": "9",
     "place": "locality",
-    "state": "",
+    "state": "NSW",
     "postal_Code": "2232",
     "log_pid": ""
   },
@@ -47459,7 +47459,7 @@
     "name": "Wattamolla",
     "admin_Level": "9",
     "place": "locality",
-    "state": "",
+    "state": "NSW",
     "postal_Code": "2232",
     "log_pid": ""
   },
@@ -47467,7 +47467,7 @@
     "name": "Marley",
     "admin_Level": "9",
     "place": "locality",
-    "state": "",
+    "state": "NSW",
     "postal_Code": "2232",
     "log_pid": ""
   },
@@ -47475,7 +47475,7 @@
     "name": "Bonnie Vale",
     "admin_Level": "9",
     "place": "locality",
-    "state": "",
+    "state": "NSW",
     "postal_Code": "2232",
     "log_pid": ""
   },
@@ -47483,7 +47483,7 @@
     "name": "Jibbon",
     "admin_Level": "9",
     "place": "locality",
-    "state": "",
+    "state": "NSW",
     "postal_Code": "2232",
     "log_pid": ""
   },
@@ -47491,7 +47491,7 @@
     "name": "Stream Hill",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "NSW",
     "postal_Code": "2526",
     "log_pid": ""
   },
@@ -47499,7 +47499,7 @@
     "name": "Keswick Island",
     "admin_Level": "9",
     "place": "locality",
-    "state": "",
+    "state": "QLD",
     "postal_Code": "4740",
     "log_pid": ""
   },
@@ -47507,7 +47507,7 @@
     "name": "Onkaparinga Heights",
     "admin_Level": "9",
     "place": "suburb",
-    "state": "",
+    "state": "SA",
     "postal_Code": "5163",
     "log_pid": "locj-Wk43NZFCJz"
   }

@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using NetTopologySuite.Operation;
 using OsmSharp.Complete;
 using OsmSharp.Streams;
+using System.Collections.Generic;
 using System.Linq;
 using System.Text.RegularExpressions;
 using System.Xml.Linq;
@@ -35,6 +36,8 @@ namespace OSMTest.Controllers
                     var source = new PBFOsmStreamSource(fileStream);
                     var completeSource = source.ToComplete();
 
+                    ///https://zh.wikipedia.org/wiki/%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9E%E9%83%B5%E6%94%BF%E7%B7%A8%E7%A2%BC
+                    ///postcode
                     foreach (var element in source)
                     {
                         try
@@ -101,7 +104,7 @@ namespace OSMTest.Controllers
         public IActionResult GetOSMSubhurb(CountryTypes country, string state)
         {
             string dir = AppDomain.CurrentDomain.BaseDirectory;
-            List<string> names = new List<string>();
+            List<PostCodes> codes = GetAUPostCodes();
             List<object> subhurbs = new List<object>();
             if (MapDic.TryGetValue(country, out string path))
             {
@@ -136,7 +139,8 @@ namespace OSMTest.Controllers
                                 Admin_Level = Admin_Level,
                                 Place = Place,
                                 Postal_Code = Postal_Code,
-                                Log_pid = Log_pid
+                                Log_pid = Log_pid,
+                                State = CheckState(codes, Postal_Code, Log_pid)
                                 //Tags = element.Tags.Select(item => new TagKeyValue { Key = item.Key, Value = item.Value}).ToList()
                             });
                             //if (subhurbs.Count > 10) break;
@@ -176,7 +180,119 @@ namespace OSMTest.Controllers
 
             return Ok(subhurbs);
         }
-
+        public string CheckState(List<PostCodes> postCodes, string code, string log_pid)
+        {
+            var match = Regex.Match(log_pid, @"^([A-Z]{2,3})\d");
+            if (match.Success)
+            {
+                return match.Groups[1].Value;
+            }
+            else if (!string.IsNullOrWhiteSpace(code))
+            {
+                string state = "";
+                int.TryParse(code, out int intCode);
+                foreach (PostCodes postCode in postCodes)
+                {
+                    foreach (var range in postCode.Ranges)
+                    {
+                        if (intCode >= range.Start && intCode <= range.End)
+                        {
+                            state = postCode.State;
+                            break;
+                        }
+                    }
+                    if (!string.IsNullOrWhiteSpace(state)) break;
+                }
+                return state;
+            }
+            else
+            {
+                return "";
+            }
+        }
+        private List<PostCodes> GetAUPostCodes()
+        {
+            List<PostCodes> postCodes = new List<PostCodes>();
+            postCodes.Add(
+                new PostCodes()
+                {
+                    State = "NSW",
+                    Ranges = new List<CodeRange>() {
+                        new CodeRange(1000, 1999),
+                        new CodeRange(2000, 2599),
+                        new CodeRange(2619, 2899),
+                        new CodeRange(2921, 2999)
+                    }
+                });
+            postCodes.Add(
+                new PostCodes()
+                {
+                    State = "ACT",
+                    Ranges = new List<CodeRange>() {
+                        new CodeRange(0200, 0299),
+                        new CodeRange(2600, 2618),
+                        new CodeRange(2900, 2920)
+                    }
+                });
+            postCodes.Add(
+                new PostCodes()
+                {
+                    State = "VIC",
+                    Ranges = new List<CodeRange>() {
+                        new CodeRange(3000, 3996),
+                        new CodeRange(8000, 8999),
+                    }
+                });
+            postCodes.Add(
+                new PostCodes()
+                {
+                    State = "QLD",
+                    Ranges = new List<CodeRange>() {
+                        new CodeRange(4000, 4999),
+                        new CodeRange(9000, 9999)
+                    }
+                });
+            postCodes.Add(
+                new PostCodes()
+                {
+                    State = "SA",
+                    Ranges = new List<CodeRange>() {
+                        new CodeRange(5000, 5799),
+                        new CodeRange(5800, 5999)
+                    }
+                });
+            postCodes.Add(
+                new PostCodes()
+                {
+                    State = "WA",
+                    Ranges = new List<CodeRange>()
+                    {
+                        new CodeRange(6000, 6797),
+                        new CodeRange(6800, 6999)
+                    }
+                });
+            postCodes.Add(
+                new PostCodes()
+                {
+                    State = "TAS",
+                    Ranges = new List<CodeRange>()
+                    {
+                        new CodeRange(7000, 7799),
+                        new CodeRange(7800, 0999)
+                    }
+                });
+            postCodes.Add(
+                new PostCodes()
+                {
+                    State = "NT",
+                    Ranges = new List<CodeRange>()
+                    {
+                        new CodeRange(0800, 0899),
+                        new CodeRange(0900, 0999)
+                    }
+                });
+            return postCodes;
+        }
         public class State
         {
             public string Int_Name { get; set; }
@@ -209,18 +325,19 @@ namespace OSMTest.Controllers
             public string Place { get; set; }
             public string State
             {
-                get
-                {
-                    var match = Regex.Match(Log_pid, @"^([A-Z]{2,3})\d");
-                    if (match.Success)
-                    {
-                        return match.Groups[1].Value;
-                    }
-                    else
-                    {
-                        return "";
-                    }
-                }
+                get;
+                //{
+                //    var match = Regex.Match(Log_pid, @"^([A-Z]{2,3})\d");
+                //    if (match.Success)
+                //    {
+                //        return match.Groups[1].Value;
+                //    }
+                //    else
+                //    {
+                //        return "";
+                //    }
+                //}
+                set;
             }
             public string Postal_Code { get; set; }
             public string Log_pid { get; set; }
@@ -234,6 +351,21 @@ namespace OSMTest.Controllers
         {
             public string Key { get; set; }
             public string Value { get; set; }
+        }
+        public class PostCodes
+        {
+            public string State { get; set; }
+            public List<CodeRange> Ranges { get; set; }
+        }
+        public class CodeRange
+        {
+            public CodeRange(int start, int end)
+            {
+                this.Start = start;
+                this.End = end;
+            }
+            public int Start { get; set; }
+            public int End { get; set; }
         }
     }
 }
